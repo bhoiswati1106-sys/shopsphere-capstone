@@ -4,7 +4,7 @@ ShopSphere is a production-style e-commerce storefront built as a final web deve
 
 ## 🚀 Live Deployment
 
-**Vercel:** Add your final Vercel URL here after deployment.
+**Vercel:** https://shopsphere-capstone-eight.vercel.app/
 
 ## ✨ Features
 
@@ -133,15 +133,6 @@ This project intentionally uses simulated authentication for a frontend capstone
 | Responsive UI | CSS media queries |
 | Cloud deployment | Vercel-ready static deployment |
 | Professional documentation | README + architecture diagrams |
-
-## 📌 Submission
-
-Submit these two links:
-
-1. **GitHub Repository:** `https://github.com/YOUR-USERNAME/shopsphere-capstone`
-2. **Live Vercel URL:** `https://YOUR-PROJECT.vercel.app`
-
-Replace the placeholders with your actual links after GitHub and Vercel deployment.
 
 ## 👩‍💻 Author
 
